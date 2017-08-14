@@ -1,5 +1,7 @@
 # Burlington Vermont City Wards
 
+![overview-map](images/burlington-open-city-data-screenshot.png)
+
 ## What is this repo for?
 
 Listing of the Burlington, Vermont data for wards for voting and city
